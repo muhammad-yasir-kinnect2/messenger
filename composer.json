@@ -1,0 +1,7 @@
+{
+  "name": "pasha/messenger",
+  "description": "Messenger Laravel 5.2 messenger",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {}
+}
