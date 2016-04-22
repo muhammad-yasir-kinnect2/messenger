@@ -6,7 +6,6 @@
   "require": {},
   "autoload": {
     "classmap": [
-      "database"
     ],
     "psr-4": {
       "Pasha\\Messenger\\": "src"
