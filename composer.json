@@ -8,7 +8,7 @@
     "classmap": [
     ],
     "psr-4": {
-      "Pasha\\Messenger\\": "src"
+      "Pasha\\Messenger\\": "src/"
     }
   }
 }
